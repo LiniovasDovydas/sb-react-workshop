@@ -1,13 +1,9 @@
 ## **ServiceBridge React Workshops**
 
----
-
 ## **Workshops**
 1. React Basics **(2020-10-??)**
 2. React Context API **(????-??-??)**
 3. React Redux **(????-??-??)**
-
----
 
 ### **Prerequisites:**
 * Yarn [Download](https://classic.yarnpkg.com/en/docs/install/#windows-stable)
@@ -15,8 +11,6 @@
 * React Dev Tools [Add to chrome](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
 * Visual Studio Code [Download](https://code.visualstudio.com/download)
 * Coffee ☕
-
----
 
 ## **Setting up development environment:**
 
@@ -32,8 +26,6 @@ Open your created project with the following command `cd sb-Workshop` and open V
 **Step 4:**
 Open VSCode terminal with  `CTRL + (Backtick)` and run `yarn start` to start development. 
 
----
-
 ## **NOTES:**
 
 #### **Class Component vs Functional Component**
@@ -41,8 +33,6 @@ Benefits you get by using functional components in React:
 1. Functional component are much easier to read and test because they are plain JavaScript functions without state or lifecycle-hooks
 2. It has less code which makes it more readable
 3. It will get easier to separate container and presentational components because you need to think more about your component’s state
-
----
 
 ## **TODO:**
 
