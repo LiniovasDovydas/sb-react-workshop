@@ -5,6 +5,7 @@
 4. React Redux **(2021-??-??)**
 
 # **Prerequisites:**
+* Node >= 10.* [Download](https://nodejs.org/en/download/releases/)
 * Yarn [Download](https://classic.yarnpkg.com/en/docs/install/#windows-stable)
 * Google Chrome [Download](https://www.google.com/chrome/?brand=CHBD&gclid=Cj0KCQjw8rT8BRCbARIsALWiOvQNndq-e5t_bigX3d24_h-B3zag77u8MQ8S0Kon4iAcQHIUXmMBOkwaAomtEALw_wcB&gclsrc=aw.ds)
 * React Dev Tools [Add to chrome](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
