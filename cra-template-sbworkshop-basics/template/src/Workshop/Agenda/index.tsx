@@ -1,10 +1,9 @@
 import React from 'react';
-import SBLogo from '../../assets/sb-logo.svg';
 import './Agenda.css';
 
 export const Agenda: React.FC = () => (
   <aside className="agenda">
-    <img className="sb-logo" src={SBLogo} alt="SB Workshop" />
+    <h1 className="sb-title">React Basics 🚀</h1>
     <h3>Agenda:</h3>
     <ol>
       <li>Creating a component</li>
