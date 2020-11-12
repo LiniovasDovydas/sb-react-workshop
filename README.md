@@ -1,7 +1,7 @@
 # **ServiceBridge React Workshops**
 1. React Basics **(2020-11-06)**
-2. React Test with Jest **(2021-??-??)**
-3. React Context API **(2021-??-??)**
+2. React Context API **(2021-??-??)**
+3. React Test with Jest **(2021-??-??)**
 4. React Redux **(2021-??-??)**
 
 # **Prerequisites:**
@@ -21,8 +21,8 @@ Open `sb-react-workshop` repository folder.
 **Step 2:**
 Create a react project using the command for specific workshop:
 * Basics - `npx create-react-app sb-workshop --template file:./cra-template-sbworkshop-basics`
-* Testing with Jest - `npx create-react-app sb-workshop --template file:./cra-template-sbworkshop-testing` (WIP)
 * Context API - `npx create-react-app sb-workshop --template file:./cra-template-sbworkshop-context` (WIP)
+* Testing with Jest - `npx create-react-app sb-workshop --template file:./cra-template-sbworkshop-testing` (WIP)
 * Redux - `npx create-react-app sb-workshop --template file:./cra-template-sbworkshop-redux` (WIP)
 
 **Step 3:**
