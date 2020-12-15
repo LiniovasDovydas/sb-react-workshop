@@ -1,5 +1,6 @@
 # **ServiceBridge React Workshops**
 1. React Basics **(2020-11-06)**
+2. React Basics catchup **(2021-01-22)** **preliminary**
 2. React Context API **(2021-??-??)**
 3. React Test with Jest **(2021-??-??)**
 4. React Redux **(2021-??-??)**
